@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:book"
+        },
+        "E": {
+            "item": "endextrem:hell_feather"
+        }
+    },
+    "result": {
+        "item": "endextrem:devils_book",
+        "count": 1
+    }
+}

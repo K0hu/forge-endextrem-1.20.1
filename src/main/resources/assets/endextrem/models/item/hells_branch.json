@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "endextrem:item/hells_branch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "#E#",
+        "#/#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:blaze_powder"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "E": {
+            "item": "endextrem:devils_book"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        }
+    },
+    "result": {
+        "item": "endextrem:devils_book_upgrade",
+        "count": 1
+    }
+}
